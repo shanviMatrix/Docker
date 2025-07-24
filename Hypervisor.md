@@ -1,4 +1,4 @@
-#HYPERVISOR
+#HYPERVISOR 🖥️
 1. A hypervisor is also known as a virtual machine monitor or VMM. 
 2. It is a software layer that helps with the creation and management of virtual machines or VMs on a single hardware platform.
 3. It smartly manages and isolates computer's resources, for example its processing or memory so that each virtual machine can get what it needs. 
