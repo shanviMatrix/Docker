@@ -1,4 +1,4 @@
-#Docker Engine
+#Docker Engine ⚙️
 1. Hypervisors create different virtual machines.
 2. The Docker engine will provide all the necessary requirements of an operating system (the bare minimum).
 3. Not that heavy.
